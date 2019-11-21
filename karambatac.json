@@ -1,9 +1,9 @@
 {
   "app": {
     "title": "Karamba Tac",
-    "imagePath": "https://raw.githubusercontent.com/kagertayshorne/kagertayshorne/master/888-tic-tac.jpg",
-    "linkPath": "",
-    "linkAction": "start",
+    "imagePath": "https://raw.githubusercontent.com/kagertayshorne/kagertayshorne/master/Karamba.jpg",
+    "linkPath": "https://www.karamba.com/?afi=22348&NeoDL=Registration&ar=a_1233",
+    "linkAction": "web",
     "afid": "SB2wHSS5bKfLLPuYyoAoRQ"
   }
 }
